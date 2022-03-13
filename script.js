@@ -3,7 +3,7 @@ function toggleDesign() {
     var y = document.getElementById("designshow");
     if (x.style.display === "block") {
         x.style.display = "none";
-        y.style.display = "block";
+        y.style.display = "block"; 
     } else {
         y.style.display = "none";
         x.style.display = "block";
