@@ -13,7 +13,7 @@ function toggleDevelopment() {
     var x = document.getElementById("development");
     var y = document.getElementById("developmentshow");
     if (x.style.display === "block") {
-        x.style.display = "none";
+        x.style.display = "none"; 
         y.style.display = "block"; 
     } else {
         y.style.display = "none";
