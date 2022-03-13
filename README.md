@@ -1,5 +1,5 @@
 # Delani Studio
-#### Independent Project, 14/3/22
+#### Independent Project, 14/03/22
 #### By **John Maina**
 ## Live Website
 https://johnmaina294.github.io/delanistudio/
