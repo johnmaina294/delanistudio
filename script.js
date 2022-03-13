@@ -6,7 +6,7 @@ function toggleDesign() {
         y.style.display = "block"; 
     } else {
         y.style.display = "none";
-        x.style.display = "block";
+        x.style.display = "block";  
     } 
 } 
 function toggleDevelopment() { 
