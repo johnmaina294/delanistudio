@@ -20,7 +20,6 @@ function toggleDevelopment() {
         x.style.display = "block";
     }
 } 
-
 function toggleProductManagement() {
     var x = document.getElementById("productmanagement");
     var y = document.getElementById("productmanagementshow");
