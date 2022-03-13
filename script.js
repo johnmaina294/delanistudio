@@ -9,7 +9,7 @@ function toggleDesign() {
         x.style.display = "block";
     } 
 } 
-function toggleDevelopment() {
+function toggleDevelopment() { 
     var x = document.getElementById("development");
     var y = document.getElementById("developmentshow");
     if (x.style.display === "block") {
