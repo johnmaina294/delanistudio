@@ -31,7 +31,6 @@ function toggleProductManagement() {
         x.style.display = "block";
     }
 }
-
 $(document).ready(function(){
     $("#portfolio").hover(function(){
       $(this).css("background-color", "lightgreen");
